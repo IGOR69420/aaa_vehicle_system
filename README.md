@@ -91,9 +91,13 @@ IMPORTANT NOTE (REALISTIC)
 This system:
 
 ❌ does NOT block pirates
+
 ❌ does NOT HWID ban users
+
 ✅ DOES help identify where leaks came from
+
 ✅ IS safe for FiveM TOS
+
 
 
 
