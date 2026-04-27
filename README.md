@@ -29,24 +29,37 @@ Modular (each system separated)
 Expandable (easy to add new features)
 Performance-friendly
 Server-synced where needed
+
 🚀 Planned / Expandable Features
+
 Dyno graph system 📊
+
 Real money economy for drifting 💰
+
 Car meet zones 📍
+
 Tire wear & heat simulation 🛞
+
 Full NUI overhaul (mobile-style UI)
+
 Replay system 🎥
+
 📌 Notes
+
 This system is designed for RP / drift / car culture servers
 Works best with custom handling vehicles
 Fully editable config system included
+
 🧑‍💻 Credits
 
 Built as a modular FiveM vehicle gameplay framework focused on:
 
 realism
+
 customization
+
 player progression systems
+
 ⚠️ License
 
 For personal and server use only.
