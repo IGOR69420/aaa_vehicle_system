@@ -5,14 +5,23 @@
 
 
 🎮 Controls
+
 Action	Key
+
 Toggle Drift	LSHIFT
+
 Toggle Anti-Lag	B
+
 Open Tuning Menu	/tunemenu
+
 Open Garage	/garage
+
 Leaderboard	/leaderboard
+
+
 Join Event	/joinevent
 🧠 System Design
+
 
 This resource is built to be:
 
