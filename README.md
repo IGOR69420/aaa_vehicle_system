@@ -91,7 +91,7 @@ By using this resource you agree to the following:
 ### ⚠️ Enforcement
 Unauthorized distribution or resale may result in:
 - Revocation of access
-- Blacklist from future updates (if applicable)
+- Blacklist from future updates
 - Reporting to platform providers
 
 This system is intended for **personal and server use only**.
